@@ -1,7 +1,9 @@
-# akane (@omsss22)さんのデザインをひらともやさんがコーディングしやすいように作り直してくださったデザインをコーディングしました。
-note コーディング練習用のデザイン ~お花屋さんのLP編~ https://note.com/tmy_schaf/n/n49a9b727c5b1
-akaneさんのXアカウント: https://twitter.com/omsss22
+# お花屋さんLP
+@omsss22（akane）さんのデザインを、ひらともやさんがコーディングしやすいように作り直したデザインをコーディングしました。  
 
-このポートフォリオはHTMLとCSSとバニラのJAVASCRIPTとjQueryで作った動的LPです。
+- [note コーディング練習用のデザイン ~お花屋さんのLP編~](https://note.com/tmy_schaf/n/n49a9b727c5b1)  
+- akaneさんのXアカウント: [https://twitter.com/omsss22](https://twitter.com/omsss22)  
 
-レスポンシブ対応済みです。
+このポートフォリオは、HTML・CSS・バニラJavaScript・jQueryを使用して作成した動的なランディングページ（LP）です。  
+
+レスポンシブ対応済み
